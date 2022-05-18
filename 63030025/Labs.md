@@ -149,7 +149,7 @@ namespace method_examples
 3. บันทึกผล
 ```
 
-  [บันทึกผล]
+ ![image](https://user-images.githubusercontent.com/92078990/168982836-9dc5dbee-98fa-4b62-b071-457647d03372.png)
    
 ```   
 
@@ -157,6 +157,6 @@ namespace method_examples
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
 
-  [ให้เขียนบรรยายตรงนี้]
+ ไม่ต่างจากที่คิดไว้
    
 ```   
